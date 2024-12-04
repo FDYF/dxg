@@ -1,6 +1,7 @@
 # 合成大西瓜
 
 # 本仓库的代码均来自于【程序员鱼皮】，本人对此没有著作权，发布github只是为了使用github pages进行托管，请支持原作者，感谢！
+# 原作者的仓库https://github.com/liyupi/daxigua
 
 
 
